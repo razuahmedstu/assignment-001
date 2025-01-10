@@ -8,7 +8,7 @@
 body{
 
 max-width: 1280px;
-margin: 5px auto;
+margin: 5px 160px;
 }
 /* shaired-styles */
 .vision-icon{
@@ -62,73 +62,52 @@ border-radius: 8px;
 text-align: center;
 
 }
-/*the-vision-of-future  */
-.the-vision-of-future{
+/* news-section */
+.recent-news-heading{
+    font-size: 40px;
+    font-weight: bold;
+    color: 0E0E0E;
+}
+.recent-news-description{
+    font-size: 16;
+   color:#0E0E0E
+}
+.news-1{
+    display: flex;
     width: 1280px;
-    
-    gap: 100px;
-
+    height: 340px;
+    padding: 48px;
+    gap: 40px;
+    background-color: #cae7f3;
+    border-radius: 24px;
+    border: 1px solid black;
 }
-
-
-/* part-1 */
-.section-1{
-    height: 120px;
-    
+.news-img{padding-top: 10px;
+    width: 408px;
+    height: 300px;
+    border-radius: 24px;
 }
-
-.section-1-heading{
-    font-size: 40pxS;
+.news-heading{
+    font-size: 30px;
     font-weight: bold;
     color: #0E0E0E;
 }
-.section-1-p{
+.al-jazeera-icon{
+    width: 134px;
+    height: 30px;
+}
+.news-description{
     font-size: 16px;
     color: #0E0E0E;
 }
-.section-2{
-    
-    display: flex;
-    width: 1280px;
-    height: 325px;
-    gap: 25px;
-    margin-bottom: 100px;
-    margin-top: 32px;
-}
-
-p{
-    background-repeat: no-repeat;
-    background-size: 100px ;
-}
-
-.card-1{
-    height: 410px;
-    width: 450px;
-    padding: 32px;
-    background-color: #81B4FC;
-}
-.card-2{
-    height: 410.67px;
-    width: 450px;
-    padding: 32px;
-    background-color: #C6E4D6;
-}
-.card-3{
-    height: 410.67px;
-    width: 450px;
-    padding: 32px;
-    background-color: #F7EBCF;
-}
-
-   
-
-.card-1-btn{
-    background-color:#5490F5 ;
-}
-.card-2-btn{
-    background-color: #09A15C;
-}
-.card-3-btn{
-
-    background-color: #FFC239;
+.news-button{
+    background-color: #006A50;
+    color:#FFFFFF;
+    font-size: 18px;
+    font-weight: 700;
+    width: 139px;
+    height: 40px;
+    padding: 26px 13px;
+    border-radius: 8px;
+    text-align: center;
 }
