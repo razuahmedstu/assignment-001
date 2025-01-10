@@ -1,0 +1,134 @@
+
+
+.work-sans-normal> {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+body{
+
+max-width: 1280px;
+margin: 5px auto;
+}
+/* shaired-styles */
+.vision-icon{
+    width: 100px;
+    height: 100px;
+}
+
+
+/* banner-section */
+.banner{
+    display: flex;
+    height: 560px;
+    width: 1280px;
+    background-color:#C6E4D6;
+    padding: 50px 80px;
+    gap: 64px;
+    border-radius: 24px;
+}
+.banner-contant{
+    width: 622px;
+    height: 326px;
+    padding: 162px 0px 197px 69.66px;
+    
+    
+
+}
+.banner-img{
+    height: 158px;
+    width: 371px;
+    padding: 80px 100px 80px 100px;
+}
+.banner-p{
+    font-size: 24px;
+    font-weight: 500;
+    color: #0E0E0E;
+}
+.banner-h1{
+    font-size: 56px;
+    font-weight: bold;
+    column-rule: #0E0E0E;
+}
+.banner-button{
+    font-size: 18px;
+    font-weight: 800px;
+    color: #FFFFFF;
+background-color: #006A50;
+padding: 34px 17px;
+height: 56px;
+width: 270px;
+border-radius: 8px;
+text-align: center;
+
+}
+/*the-vision-of-future  */
+.the-vision-of-future{
+    width: 1280px;
+    
+    gap: 100px;
+
+}
+
+
+/* part-1 */
+.section-1{
+    height: 120px;
+    
+}
+
+.section-1-heading{
+    font-size: 40pxS;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.section-1-p{
+    font-size: 16px;
+    color: #0E0E0E;
+}
+.section-2{
+    
+    display: flex;
+    width: 1280px;
+    height: 325px;
+    gap: 25px;
+    margin-bottom: 100px;
+    margin-top: 32px;
+}
+
+p{
+    background-repeat: no-repeat;
+    background-size: 100px ;
+}
+
+.card-1{
+    height: 410px;
+    width: 450px;
+    padding: 32px;
+    background-color: #81B4FC;
+}
+.card-2{
+    height: 410.67px;
+    width: 450px;
+    padding: 32px;
+    background-color: #C6E4D6;
+}
+.card-3{
+    height: 410.67px;
+    width: 450px;
+    padding: 32px;
+    background-color: #F7EBCF;
+}
+
+   
+
+.card-1-btn{
+    background-color:#5490F5 ;
+}
+.card-2-btn{
+    background-color: #09A15C;
+}
+.card-3-btn{
+
+    background-color: #FFC239;
+}
