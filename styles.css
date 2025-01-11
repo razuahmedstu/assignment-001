@@ -152,6 +152,23 @@ text-align: center;
     padding: 20px 11px ;
     margin-top: 50px;
 }
+
+#bg-pic{
+    background: url(assets/quote-bg.png);
+    background-repeat:no-repeat;
+   
+}
+ 
+
+.speach{
+    margin-top: 32px;
+    padding: 48px 24px;
+    background-color: #ebe7e7;
+    border-radius: 16px;
+    height: 200px;}
+   
+
+
 /* news-section */
 .news-section{
     gap: 32px;
