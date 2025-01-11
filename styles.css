@@ -16,6 +16,9 @@ margin: 5px 160px;
     width: 100px;
     height: 100px;
 }
+button:hover{
+    background-color: rgb(88, 161, 209);
+}
 
 
 /* banner-section */
