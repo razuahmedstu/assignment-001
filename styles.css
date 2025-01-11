@@ -122,6 +122,8 @@ text-align: center;
 .donation-heading{
     text-align: center;
 }
+
+
 .donate{
     gap: 32px;
     display: grid;
@@ -154,4 +156,19 @@ text-align: center;
    
     
    
+}
+.donation-btn{
+    width: 151px;
+    height: 56px;
+    padding: 34px 17px;
+   border-radius: 8px;
+    color: #FFFFFF;
+   background-color: #006A50;
+
+    
+   
+}
+.payment{
+    text-align: center;
+   margin-top: 32px;
 }
