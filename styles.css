@@ -14,10 +14,25 @@ margin: 5px 160px;
 /* shaired-styles */
 .vision-icon{
     width: 100px;
-    height: 100px;
+    height: 1000px;
 }
 button:hover{
     background-color: rgb(88, 161, 209);
+}
+.card-icon{
+    height: 62px;
+    width: 62px;
+   
+}
+.sub-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.primary-p{
+    size: 16px;
+color: #0E0E0E;
+margin-bottom: 24px;
 }
 
 
@@ -68,8 +83,74 @@ text-align: center;
 }
 /* future-section */
 
+.vision{
+    gap: 32px;
+    display: grid;
+}
+.vision-part-1{
+    height: 120px;
+    padding-bottom: 32px;
+
+}
+
 .card{
     display: flex;
+}
+.card-1{
+    height: 320px;
+    width: 400px;
+    padding:32px;
+    background-color: #97c0db;
+    margin: 20px 10px;
+    border-radius: 16px;
+  
+    
+}
+.card-2{
+    height: 320px;
+    width: 400px;
+    padding:32px;
+    background-color: #C6E4D6;
+    margin: 20px 10px;
+    border-radius: 16px;
+}
+.card-3{
+    height: 320px;
+    width: 400px;
+    padding:32px;
+    background-color: #F7EBCF;
+    margin: 20px 10px;
+    border-radius: 16px;
+}
+.card-btn-1{
+    width: 122px;
+    height: 41px;
+    padding: 20px 11px;
+    border-radius: 8px;
+    background-color: #5490F5;
+    color: #FFFFFF;
+    margin-top: 50px;
+
+}
+.card-btn-2{
+    width: 122px;
+    height: 41px;
+    padding: 20px 11px;
+    border-radius: 8px;
+    background-color: #09A15C;
+    color: #FFFFFF;
+    padding: 20px 11px ;
+    margin-top: 50px;
+}
+.card-btn-3{
+    width: 122px;
+    height: 41px;
+    padding: 20px 11px;
+    border-radius: 8px;
+    background-color: #FFC239;
+    color: #FFFFFF;
+    padding: 20px 11px ;
+    margin-top: 50px;
 }
 /* news-section */
 .news-section{
