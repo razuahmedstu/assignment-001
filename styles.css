@@ -288,12 +288,27 @@ text-align: center;
     
     height: 622px;
     padding: 100px 80px; 
-    margin: 80px 329px;
+    margin: 80px 200px;
 
     text-align: center;
 }
 .subscription-form{
     display: flex;
+    margin-top: 24px;
+    margin-bottom: 43px;
+    height: 56px;
+    width: 750px;
+    text-align: center;
 }
+.subscription-input{
+    height: 55px;
+    width: 600px;
 
-   
+   }
+   .subscription-btn{
+    height: 58px;
+    width: 150px;
+    background-color: #006A50;
+    color: #F7EBCF;
+    padding: 25px 17px;
+   }
