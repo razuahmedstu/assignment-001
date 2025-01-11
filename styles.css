@@ -178,7 +178,7 @@ text-align: center;
 .recent-news-heading{
     font-size: 40px;
     font-weight: bold;
-    color: 0E0E0E;
+    color: #0E0E0E;
 }
 .recent-news-description{
     font-size: 16;
@@ -275,3 +275,25 @@ text-align: center;
     text-align: center;
    margin-top: 32px;
 }
+/* subscriber-section */
+.news-latter{
+    width: 1280px;
+    height: 511px;
+    background-color: #C6E4D6;
+   
+    border-radius: 10px;
+    margin-top: 80px;
+}
+.subscribe-section{
+    
+    height: 622px;
+    padding: 100px 80px; 
+    margin: 80px 329px;
+
+    text-align: center;
+}
+.subscription-form{
+    display: flex;
+}
+
+   
